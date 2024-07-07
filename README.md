@@ -1,5 +1,5 @@
 # Buy Master
-A new integration with notion.
+A new integration for notion.
 
 ## Getting Started
 
