@@ -1,11 +1,13 @@
-<img src="https://i.imgur.com/uOe54LD.png" alt="notion" width="50" height="50"> . <img src="https://i.imgur.com/V0MUNTC.png" alt="upiicsa" width="50" height="60">
-
 
 # Buy Master
 A new integration for notion.
 
 ![image](https://github.com/Unodetantosluises/notion-api/assets/57682073/4b7cee89-6424-415e-b6dc-57bdfce82195)
 
+> [!NOTE]
+> This repository was created for Hacktion
+
+<img src="https://i.imgur.com/9akcgrl.png" alt="notion" height="70">  <img src="https://i.imgur.com/V0MUNTC.png" alt="upiicsa" width="60" height="70">
 
 ## Getting Started
 
