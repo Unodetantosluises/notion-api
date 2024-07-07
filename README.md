@@ -1,6 +1,9 @@
 # Buy Master
 A new integration for notion.
 
+![image](https://github.com/Unodetantosluises/notion-api/assets/57682073/4b7cee89-6424-415e-b6dc-57bdfce82195)
+
+
 ## Getting Started
 
 First, run the development server:
